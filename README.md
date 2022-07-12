@@ -6,3 +6,4 @@ Controls:
 - SPACE - jump or 2x SPACE to double jump
 - C - crouch
 - Q - flashlight
+- Left Shift - push objects
