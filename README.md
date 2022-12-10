@@ -1,9 +1,6 @@
-Old World documentatnion can be found in Google Docs. 
-
-
 Controls:
-- A and D - to move left and right
-- SPACE - jump or 2x SPACE to double jump
-- C & CTRL - crouch
-- Q - flashlight
-- Left Shift & Left Mouse button- push objects
+A or D - to move left or right
+SPACE - jump or 2x SPACE to double jump
+C & CTRL - crouch - spikes kills if player is not crouching
+Q - flashlight
+Left Shift & Left Mouse button- push object 
